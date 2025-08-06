@@ -1,9 +1,9 @@
-# ACID: Adaptive Collaborative Intrusion Defense for DDoS Mitigation in SD-IoT using P4 Switches
+# ACID: A Novel SDN-Enabled Framework for Adaptive Detection of Advanced TCP Flooding Attacks in IoT Networks
 
 ## 📄 Overview
 
 This repository contains the implementation of five core algorithms proposed in the paper:  
-**"ACID: Adaptive Collaborative Intrusion Defense for DDoS Mitigation in SD-IoT using P4 Switches"**.  
+**"ACID: A Novel SDN-Enabled Framework for Adaptive Detection of Advanced TCP Flooding Attacks in IoT Networks"**.  
 The framework presents a decentralized, real-time, and intelligent defense mechanism for detecting and mitigating DDoS attacks within Software-Defined IoT (SD-IoT) environments using P4 programmable data planes.
 
 ## 🧠 Key Contributions
