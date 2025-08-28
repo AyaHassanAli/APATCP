@@ -1,0 +1,4 @@
+[P4-Digest] SYN_Rate = 95000 pps from 192.168.1.45
+[P4-Digest] Detected TCP_Flag_Mix anomaly on port 2
+[P4-Digest] ACK_No_Conn ratio exceeds 0.85 threshold
+[P4-Digest] Triggering mitigation rule: drop + alert

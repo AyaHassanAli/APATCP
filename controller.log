@@ -1,0 +1,6 @@
+[INFO] Controller C0 initialized in ACI mode
+[INFO] ACID: Secure communication channel established with C1, C2
+[ALERT] DTAC: SYN flood detected from IP 192.168.1.45, Threat Score = 8.5
+[INFO] FlowGuard-AP applied SYN cookie and rate-limit mitigation
+[INFO] DTAM: Updated anomaly thresholds based on traffic baseline shift
+[INFO] Controller state synchronized across cluster
