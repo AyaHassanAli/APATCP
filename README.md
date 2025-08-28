@@ -16,20 +16,12 @@
 
 ## 🧠 Key Contributions
 
-- **ACID Framework**: An intelligent, scalable SD-IoT architecture that performs adaptive mitigation through decentralized collaboration.
 - **Five Algorithmic Modules**:
   1. **DTAM** – Dynamic Traffic Anomaly Mitigation
   2. **P4-FE** – P4-Based Stateful Feature Extraction
   3. **FlowGuard-AP** – Flow-based Adaptive Protection
   4. **INAD** – Intelligent Network Anomaly Detector (Ensemble Classifier)
   5. **ACID System** – Full orchestration for SD-IoT with real-time optimization and cryptographic communication
-
-  ## 🧱 Architecture
-🧩 Modules:
-- **ACID** – Collaborative intrusion detection
-- **DTAM** – Dynamic anomaly mitigation
-- **DTAC** – Real-time threat classification
-- **FlowGuard-AP** – Adaptive response engine
 
 ## 📂 Project Structure
 
@@ -68,7 +60,7 @@ APATCP/
 ```
 
 ## ⚙️ Installation
-```bash
+
 git clone https://github.com/AyaHassanAli/APATCP.git
 cd APATCP
 pip install -r requirements.txt
