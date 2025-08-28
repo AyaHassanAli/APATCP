@@ -92,11 +92,11 @@ python code/train_model.py --dataset data/CICIoT2024.csv
 
 ##🧠 Datasets Used
 
-[CICIoT2024](https://www.unb.ca/cic/datasets/iot2024.html)
+*[CICIoT2024](https://www.unb.ca/cic/datasets/iot2024.html)
 
-[Edge-IIoTset](https://www.kaggle.com/datasets/iot2023/edge-iiot-dataset)
+*[Edge-IIoTset](https://www.kaggle.com/datasets/iot2023/edge-iiot-dataset)
 
-[ToN_IoT](https://research.unsw.edu.au/projects/toniot-datasets)
+*[ToN_IoT](https://research.unsw.edu.au/projects/toniot-datasets)
 
 
 ## 📈 Performance Metrics
