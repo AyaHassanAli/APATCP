@@ -32,6 +32,8 @@
 - **FlowGuard-AP** – Adaptive response engine
 
 ## 📂 Project Structure
+
+```
 APATCP/
 │
 ├── controller/
@@ -63,6 +65,7 @@ APATCP/
 │   ├── switch_digest.log              # Logs from P4 digest/alerts
 │
 └── README.md                          # Full overview of architecture, usage, and results
+```
 
 ## ⚙️ Installation
 ```bash
