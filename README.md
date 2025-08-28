@@ -91,13 +91,9 @@ Or test on public dataset (CICIoT2024, ToN_IoT):
 python code/train_model.py --dataset data/CICIoT2024.csv
 
 ##🧠 Datasets Used
-
-*[CICIoT2024](https://www.unb.ca/cic/datasets/iot2024.html)
-
-*[Edge-IIoTset](https://www.kaggle.com/datasets/iot2023/edge-iiot-dataset)
-
-*[ToN_IoT](https://research.unsw.edu.au/projects/toniot-datasets)
-
+- [CICIoT2024](https://www.unb.ca/cic/datasets/iot2024.html)
+- [Edge-IIoTset](https://www.kaggle.com/datasets/iot2023/edge-iiot-dataset)
+- [ToN_IoT](https://research.unsw.edu.au/projects/toniot-datasets)
 
 ## 📈 Performance Metrics
 | Attack Scenario   | Accuracy | F1-Score | Latency | CPU Usage |
