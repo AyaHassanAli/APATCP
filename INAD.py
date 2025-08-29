@@ -17,8 +17,6 @@ from sklearn.metrics import accuracy_score, f1_score
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("INAD")
 
-
-
 CLASSIFIERS = {
     "DT": DecisionTreeClassifier(),
     "SVM": SVC(probability=True),
