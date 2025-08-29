@@ -1,7 +1,3 @@
-"""
-Dynamic Traffic Anomaly Mitigation (DTAM) Algorithm Implementation
-A Python implementation of the DTAM algorithm for dynamic threshold-based traffic analysis and mitigation using P4-enabled switches.
-"""
 
 import time
 import random

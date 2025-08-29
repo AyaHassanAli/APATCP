@@ -1,5 +1,3 @@
-# apatcp_topo.py
-# Defines Mininet-WiFi topology for APATCP with multi-controller SDN
 
 from mininet.topo import Topo
 

@@ -1,6 +1,4 @@
-/* headers.p4
- * Header definitions for APATCP - TCP Flood Detection
- */
+
 
 #ifndef HEADERS_P4
 #define HEADERS_P4
