@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "match": "SYN flood",
+      "action": "drop"
+    },
+    {
+      "match": "ACK anomaly",
+      "action": "rate_limit"
+    }
+  ]
+}

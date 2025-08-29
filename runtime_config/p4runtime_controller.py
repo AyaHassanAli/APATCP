@@ -1,5 +1,3 @@
-# p4runtime_controller.py
-# Communicates with BMv2 switch via P4Runtime API
 
 from p4runtime_lib.switch import ShutdownAllSwitchConnections
 import p4runtime_lib.helper
